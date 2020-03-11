@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "#"
+url_pdf: "https://arxiv.org/pdf/2003.04547.pdf"
 # url_pdf: files/TNNLS-QRNN3D.pdf
 url_code: 'https://github.com/Vandermode/QRNN3D'
 
