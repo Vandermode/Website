@@ -50,14 +50,14 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/Neurocom-BayesianTensor.pdf
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_pdf: https://www.researchgate.net/publication/329150744_Low-rank_Bayesian_Tensor_Factorization_for_Hyperspectral_Image_Denoising
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

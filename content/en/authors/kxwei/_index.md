@@ -45,6 +45,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=2iI4qX4AAAAJ&hl=en
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Kaixuan_Wei
 - icon: github
   icon_pack: fab
   link: https://github.com/Vandermode
@@ -69,5 +72,5 @@ I am currently a second-year master student (with three-year research experience
 **My research lies** at the intersection of machine learning, deep learning, variational optimization and statistical modeling/inference with applications for computational photography, computational imaging and low level image processing. 
 **My current research** focuses on alleviating the difficulty of capturing a large amount of paired real data required by the learning-based neural network pipeline for low-level vision tasks. I'm also interested in developing specialized network architectures by embeding the domain knowledge, given the insights from classic methods. 
 
-I serve as a reviewer for international conferences: [WACV'20](https://wacv20.wacv.net/) and [ECCV'20](https://eccv2020.eu/). 
+I serve as a reviewer for international conferences: [WACV'20](https://wacv20.wacv.net/), [ECCV'20](https://eccv2020.eu/) and [NeurIPS'20](https://nips.cc/Conferences/2020).
 <!-- **For more details**, please check my [Curriculum Vitae](/files/cv.pdf) and [Research Statement](/files/ps.pdf). -->

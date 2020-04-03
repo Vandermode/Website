@@ -34,7 +34,8 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: http://openaccess.thecvf.com/content_CVPR_2019/papers/Wei_Single_Image_Reflection_Removal_Exploiting_Misaligned_Training_Data_and_Network_CVPR_2019_paper.pdf
+# url_pdf: http://openaccess.thecvf.com/content_CVPR_2019/papers/Wei_Single_Image_Reflection_Removal_Exploiting_Misaligned_Training_Data_and_Network_CVPR_2019_paper.pdf
+url_pdf: https://www.researchgate.net/publication/338506362_Single_Image_Reflection_Removal_Exploiting_Misaligned_Training_Data_and_Network_Enhancements
 url_code: 'https://github.com/Vandermode/ERRNet'
 url_poster: 'files/CVPR19-ERRNet-Poster.pdf'
 

@@ -40,7 +40,10 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://arxiv.org/pdf/2002.09611.pdf
+url_pdf: https://www.researchgate.net/publication/339471639_Tuning-free_Plug-and-Play_Proximal_Algorithm_for_Inverse_Imaging_Problems
+# - name: PDF(researchgate)
+  # url: https://www.researchgate.net/publication/339471639_Tuning-free_Plug-and-Play_Proximal_Algorithm_for_Inverse_Imaging_Problems
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

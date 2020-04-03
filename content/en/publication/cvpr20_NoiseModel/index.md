@@ -51,8 +51,7 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: "#"
-# url_pdf: files/CVPR20-NoiseModel.pdf
+url_pdf: "https://www.researchgate.net/publication/340295293_A_Physics-based_Noise_Formation_Model_for_Extreme_Low-light_Raw_Denoising"
 url_code: 'https://github.com/Vandermode/NoiseModel'
 
 # Featured image
