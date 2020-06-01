@@ -40,7 +40,7 @@ abstract:   Lacking rich and realistic data, learned single image denoising algo
   data, which demonstrates the effectiveness of our noise formation model.
 
 # Summary. An optional shortened abstract.
-summary: "*The 36th IEEE Conference on Computer Vision and Pattern Recognition **(CVPR 2020)**, Seattle, USA,* **Oral Presentation, Acceptance rate: 5%**" 
+summary: "*The 36th IEEE Conference on Computer Vision and Pattern Recognition **(CVPR 2020)**, Seattle, USA,* **Oral Presentation, Acceptance Rate: 5%**" 
 
 tags:
 - Low-level Vision
