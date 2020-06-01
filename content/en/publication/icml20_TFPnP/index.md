@@ -7,11 +7,11 @@ authors:
 - Ying Fu
 - Carola-Bibiane Schnlieb
 - Hua Huang
-date: "2020-02-22T00:00:00Z"
+date: "2020-06-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-02-22T00:00:00Z"
+publishDate: "2020-06-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,7 +29,8 @@ In this work, we present a tuning-free PnP proximal algorithm, which can automat
 We demonstrate, through numerical and visual experiments, that the learned policy can customize different parameters for different states, and often more efficient and effective than existing handcrafted criteria. Moreover, we discuss the practical considerations of the plugged denoisers, which together with our learned policy yield  state-of-the-art results. This is prevalent on both linear and nonlinear exemplary inverse imaging problems, and in particular, we show promising results on Compressed Sensing MRI and phase retrieval. "
 
 # Summary. An optional shortened abstract.
-summary: "*Preprint on arXiv:2002.09611*"
+# summary: "*Preprint on arXiv:2002.09611*"
+summary: "*The 37th International Conference on Machine Learning **(ICML 2020)**, Vienna, Austria,* Oral Presentation"  
 
 tags:
 - Reinforcement Learning
