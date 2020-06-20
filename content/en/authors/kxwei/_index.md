@@ -72,6 +72,6 @@ I am currently a second-year master student (with three-year research experience
 **My research interest lies** at the intersection of machine learning, deep learning, variational optimization and statistical modeling/inference with applications for computational photography, computational imaging and low level image processing. 
 <!-- **My current research** focuses on alleviating the difficulty of capturing a large amount of paired real data required by the learning-based neural network pipeline for low-level vision tasks.  -->
 
-I serve as a reviewer for international conferences: [WACV'20](https://wacv20.wacv.net/), [ECCV'20](https://eccv2020.eu/), [NeurIPS'20](https://nips.cc/Conferences/2020) and [SIGGRAPH Asia'20](https://sa2020.siggraph.org/en/)
+I serve as a reviewer for international conferences: [WACV'20](https://wacv20.wacv.net/), [ECCV'20](https://eccv2020.eu/), [NeurIPS'20](https://nips.cc/Conferences/2020) and [SIGGRAPH Asia'20](https://sa2020.siggraph.org/en/).
 Please check my [CV](/files/CV_kxwei.pdf) For more details.
 <!-- and [Research Statement](/files/ps.pdf). -->
