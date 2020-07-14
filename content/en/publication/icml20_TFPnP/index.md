@@ -30,7 +30,7 @@ We demonstrate, through numerical and visual experiments, that the learned polic
 
 # Summary. An optional shortened abstract.
 # summary: "*Preprint on arXiv:2002.09611*"
-summary: "*The 37th International Conference on Machine Learning **(ICML 2020)**, Vienna, Austria,* Oral Presentation"  
+summary: "*The 37th International Conference on Machine Learning **(ICML 2020)**, Vienna, Austria,* **Outstanding Paper** "  
 
 tags:
 - Reinforcement Learning
@@ -42,8 +42,7 @@ links:
 # - name: Custom Link
 #   url: http://example.org
 url_pdf: https://www.researchgate.net/publication/339471639_Tuning-free_Plug-and-Play_Proximal_Algorithm_for_Inverse_Imaging_Problems
-# - name: PDF(researchgate)
-  # url: https://www.researchgate.net/publication/339471639_Tuning-free_Plug-and-Play_Proximal_Algorithm_for_Inverse_Imaging_Problems
+url_code: 'https://github.com/Vandermode/TFPnP'
 
 
 # Featured image

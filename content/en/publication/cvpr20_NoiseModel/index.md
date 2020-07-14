@@ -49,10 +49,11 @@ tags:
 featured: false
 
 links:
-# - name: Custom Link
-#   url: http://example.org
+- name: Talk
+  url: https://www.youtube.com/watch?v=DMDKPRozdeo
 url_pdf: "https://www.researchgate.net/publication/340295293_A_Physics-based_Noise_Formation_Model_for_Extreme_Low-light_Raw_Denoising"
-url_code: 'https://github.com/Vandermode/NoiseModel'
+url_code: 'https://github.com/Vandermode/ELD'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
