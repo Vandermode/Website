@@ -30,7 +30,7 @@ We demonstrate, through numerical and visual experiments, that the learned polic
 
 # Summary. An optional shortened abstract.
 # summary: "*Preprint on arXiv:2002.09611*"
-summary: "*The 37th International Conference on Machine Learning **(ICML 2020)**, Vienna, Austria,* **Outstanding Paper** "  
+summary: "*The 37th International Conference on Machine Learning **(ICML 2020)**, Vienna, Austria,* **Outstanding Paper Award, Acceptance Rate: 0.04%** "  
 
 tags:
 - Reinforcement Learning
