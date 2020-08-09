@@ -23,7 +23,7 @@ bio: My research interests include low-level image and video processing, computa
 interests:
 - Computational Photography
 - Computational Imaging
-- Low-level Image Processing
+- Low-level Computer Vision
 
 education:
   courses:
