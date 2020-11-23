@@ -25,4 +25,4 @@ Here is a list of my collaborators:
 - *Ying Fu (School of Computer Science and Technology, Beijing Institute of Technology)*
 - *Jiaolong Yang (Visual Computing Group, Microsoft Research)*
 - *Angelica I. Aviles-Rivero (Department of Pure Mathematics and Mathematical Statistics, University of Cambridge)*
-- *Jingwei Liang (Department of Applied Mathematics and Theoretical Physics, University of Cambridge)*
+<!-- - *Jingwei Liang (Department of Applied Mathematics and Theoretical Physics, University of Cambridge)* -->

@@ -25,6 +25,6 @@ subtitle = ""
 - [2/2020] One paper is accepted by [CVPR 2020](http://cvpr2020.thecvf.com/).
 - [2/2020] One paper is accepted by IEEE Transactions on Neural Network and Learning System (TNNLS) journal. 
 - [9/2019] I'm awarded the National Scholarship (*Rank 1st* in Master track of Computer Science, 1 / 800 students at BIT).
-- [7/2019] I join the Cambridge Image Analysis Group at University of Cambridge as a visiting student, working with Dr. [Angelica I. Aviles-Rivero](https://angelicaiaviles.wordpress.com/) and Dr. [Jingwei Liang](https://jliang993.github.io/). 
+- [7/2019] I join the Cambridge Image Analysis Group at University of Cambridge as a visiting student, working with Dr. [Angelica I. Aviles-Rivero](https://angelicaiaviles.wordpress.com/).
 - [3/2019] One paper is accepted by [CVPR 2019](http://cvpr2019.thecvf.com/).
 - [1/2019] One paper is accepted by Elsevier Neurocomputing journal.
