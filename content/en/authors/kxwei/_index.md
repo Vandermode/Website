@@ -69,9 +69,9 @@ user_groups:
 
 I am currently a third-year master student (with four-year research experience) at Beijing Institute of Technology (BIT), under the supervision of Prof. [Ying Fu](https://ying-fu.github.io/). Previously, I received my B.S. degree of Electronic Engineering (Xu class) from Beijing Institute of Technology in 2018. I was a visiting student at the Cambridge Image Analysis Group (CIA), University of Cambridge during summer 2019 (Host: Dr. [Angelica I. Aviles-Rivero](https://angelicaiaviles.wordpress.com/)). I also work closely with Dr. [Jiaolong Yang](http://jlyang.org/) in Microsoft Research Asia (MSRA). 
 
-**My research interest lies** at the intersection of machine learning, deep learning, variational optimization and statistical modeling/inference with applications for computational photography, computational imaging and low level image processing. 
+**My research interest lies** at the intersection of machine learning, deep learning, variational optimization and statistical modeling/inference with applications for computational photography, computational imaging and low-level computer vision. 
 <!-- **My current research** focuses on alleviating the difficulty of capturing a large amount of paired real data required by the learning-based neural network pipeline for low-level vision tasks.  -->
 
-I serve as a reviewer for international conferences: WACV, ECCV, CVPR, SIGGRAPH Asia, AAAI, NeurIPS, ICLR.
+I serve as a reviewer for international conferences: WACV, ECCV, CVPR, ICCV, SIGGRAPH Asia, AAAI, NeurIPS, ICLR.
 Please check my [CV](/files/CV_kxwei.pdf) For more details.
 <!-- and [Research Statement](/files/ps.pdf). -->
