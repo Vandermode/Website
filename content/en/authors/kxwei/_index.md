@@ -10,23 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: M.S. Student @ BIT
+role: PhD Student @ KAUST
 
 # Organizations/Affiliations
 organizations:
-- name: Visual Media Computing Lab
-  url: "http://vmcl.bit.edu.cn/home/index.htm"
+- name: VCC Imaging
+  url: "https://vccimaging.org/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include low-level image and video processing, computational photography and computational imaging
+bio: My research interests include computational photography/imaging/optics and large-scale optimization
 
 interests:
-- Computational Photography
+- Computational Optics
 - Computational Imaging
-- Low-level Computer Vision
+- Computational Photography
 
 education:
   courses:
+  - course: PhD Student of Computer Science
+    institution: King Abdullah University of Science and Technology
+    year: 2024.1 -   
   - course: M.S. of Computer Science
     institution: Beijing Institute of Technology
     year: 2018 - 2021
@@ -41,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:kaixuan_wei@bit.edu.cn"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:kaixuan.wei@kaust.edu.sa"  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=2iI4qX4AAAAJ&hl=en
@@ -67,11 +70,13 @@ user_groups:
 - Visitors
 ---
 
-I am currently a third-year master student (with four-year research experience) at Beijing Institute of Technology (BIT), under the supervision of Prof. [Ying Fu](https://ying-fu.github.io/). Previously, I received my B.S. degree of Electronic Engineering (Xu class) from Beijing Institute of Technology in 2018. I was a visiting student at the Cambridge Image Analysis Group (CIA), University of Cambridge during summer 2019 (Host: Dr. [Angelica I. Aviles-Rivero](https://angelicaiaviles.wordpress.com/)). I also work closely with Dr. [Jiaolong Yang](http://jlyang.org/) in Microsoft Research Asia (MSRA). 
+I am a PhD student at King Abdullah University Of Science And Technology (KAUST), under the supervision of Prof. [Wolfgang Heidrich](https://vccimaging.org/People/heidriw/). I received B.S. of Electronic Engineering and M.S. of Computer Science from Beijing Institute of Technology in 2018 and 2021, respectively. From 2021 to 2023, I was a "Ghost/secret PhD student" at Princeton University due to the uncontrollable political issues (pp. 10043), which drastically impacted my career and life. 
+I was a research intern at University of Cambridge and Microsoft Research Asia in 2019 and 2018, respectively.
+<!-- I was a visiting student at the Cambridge Image Analysis Group (CIA), University of Cambridge during summer 2019 (Host: Dr. [Angelica I. Aviles-Rivero](https://angelicaiaviles.wordpress.com/)). I also work closely with Dr. [Jiaolong Yang](http://jlyang.org/) in Microsoft Research Asia (MSRA).  -->
 
-**My research interest lies** at the intersection of machine learning, deep learning, variational optimization and statistical modeling/inference with applications for computational photography, computational imaging and low-level computer vision. 
+**My research interest lies** at the intersection of machine learning, deep learning, optimization and statistical modeling/inference with applications for computational photography/imaging/optics and computer vision. 
 <!-- **My current research** focuses on alleviating the difficulty of capturing a large amount of paired real data required by the learning-based neural network pipeline for low-level vision tasks.  -->
 
-I serve as a reviewer for international conferences: WACV, ECCV, CVPR, ICCV, SIGGRAPH Asia, AAAI, NeurIPS, ICLR.
-Please check my [CV](/files/CV_kxwei.pdf) For more details.
+I regularly serve as a reviewer for prestigious international conferences and journals in computer vision and machine learning. 
+Please check my [CV](/files/CV_kxwei.pdf) For details.
 <!-- and [Research Statement](/files/ps.pdf). -->

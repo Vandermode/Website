@@ -4,7 +4,7 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
 title = "Recent News"
@@ -18,7 +18,7 @@ subtitle = ""
   #   4 = Citation (publication only)
   view = 1
 +++
-- [7/2020] We are happy and honoured to receive an <span style="color:red">Outstanding Paper Award</span> @[ICML2020](https://icml.cc/Conferences/2020/Awards)
+<!-- - [7/2020] We are happy and honoured to receive an <span style="color:red">Outstanding Paper Award</span> @[ICML2020](https://icml.cc/Conferences/2020/Awards)
 - [6/2020] One paper is accepted by [ICML 2020](https://icml.cc/).
 - [3/2020] Our work on *extreme low-light denoising* has been selected as an <span style="color:red">Oral presentation</span> in CVPR 2020!
 - [3/2020] The new homepage on line.
@@ -27,4 +27,4 @@ subtitle = ""
 - [9/2019] I'm awarded the National Scholarship (*Rank 1st* in Master track of Computer Science, 1 / 800 students at BIT).
 - [7/2019] I join the Cambridge Image Analysis Group at University of Cambridge as a visiting student, working with Dr. [Angelica I. Aviles-Rivero](https://angelicaiaviles.wordpress.com/).
 - [3/2019] One paper is accepted by [CVPR 2019](http://cvpr2019.thecvf.com/).
-- [1/2019] One paper is accepted by Elsevier Neurocomputing journal.
+- [1/2019] One paper is accepted by Elsevier Neurocomputing journal. -->
