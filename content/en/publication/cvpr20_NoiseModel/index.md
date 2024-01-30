@@ -51,7 +51,7 @@ featured: false
 links:
 - name: Talk
   url: https://www.youtube.com/watch?v=DMDKPRozdeo
-url_pdf: "https://www.researchgate.net/publication/340295293_A_Physics-based_Noise_Formation_Model_for_Extreme_Low-light_Raw_Denoising"
+url_pdf: "https://openaccess.thecvf.com/content_CVPR_2020/papers/Wei_A_Physics-Based_Noise_Formation_Model_for_Extreme_Low-Light_Raw_Denoising_CVPR_2020_paper.pdf"
 url_code: 'https://github.com/Vandermode/ELD'
 
 

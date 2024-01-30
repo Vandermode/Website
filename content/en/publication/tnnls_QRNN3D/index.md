@@ -33,8 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.researchgate.net/publication/340181423_3-D_Quasi-Recurrent_Neural_Network_for_Hyperspectral_Image_Denoising
-# url_pdf: files/TNNLS-QRNN3D.pdf
+url_pdf: https://arxiv.org/abs/2003.04547
 url_code: 'https://github.com/Vandermode/QRNN3D'
 
 # Featured image
