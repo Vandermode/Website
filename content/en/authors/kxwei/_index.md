@@ -77,7 +77,7 @@ I was a research intern at University of Cambridge and Microsoft Research Asia i
 **My research interest lies** at the intersection of machine learning, deep learning, optimization and statistical modeling/inference with applications for computational photography/imaging/optics and computer vision. 
 <!-- **My current research** focuses on alleviating the difficulty of capturing a large amount of paired real data required by the learning-based neural network pipeline for low-level vision tasks.  -->
 
-I hold a strong believe that computational imaging/optics will ultimately reshape everyone's life, and I do research for fun (the main reason why I persist with research even after experiencing substantial setbacks beyond control in the past few years). I have a strong built-in anti-anxiety filter in mind, and my MBTI is INTP-A. 
+I hold a strong believe that computational imaging/optics will ultimately reshape everyone's life, and I do research for fun. I have a strong built-in anti-anxiety filter in mind, and my MBTI is INTP-A. 
 
 I regularly serve as a reviewer for prestigious international conferences and journals in computer vision and machine learning. 
 Please check my [CV](/files/CV_kxwei.pdf) For details.
