@@ -70,9 +70,8 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student at King Abdullah University Of Science And Technology (KAUST), under the supervision of Prof. [Wolfgang Heidrich](https://vccimaging.org/People/heidriw/). I received B.S. of Electronic Engineering and M.S. of Computer Science from Beijing Institute of Technology in 2018 and 2021, respectively. 
-<!-- From 2021 to 2023, I was a "Ghost/secret PhD student" at Princeton University due to the uncontrollable political issues (pp. 10043), which drastically impacted my career and life.  -->
-I was a research intern at University of Cambridge and Microsoft Research Asia in 2019 and 2018, respectively.
+I am a PhD student at King Abdullah University Of Science And Technology (KAUST), under the supervision of Prof. [Wolfgang Heidrich](https://vccimaging.org/People/heidriw/). I received B.S. of Electronic Engineering and M.S. of Computer Science from Beijing Institute of Technology in 2018 and 2021, respectively. <!-- From 2021 to 2023, I was a "Ghost/secret PhD student" at Princeton University due to the uncontrollable political issues (pp. 10043), which drastically impacted my career and life.  --> 
+Besides, I ever interned at University of Cambridge and Microsoft Research Asia in 2019 and 2018, respectively.
 <!-- I was a visiting student at the Cambridge Image Analysis Group (CIA), University of Cambridge during summer 2019 (Host: Dr. [Angelica I. Aviles-Rivero](https://angelicaiaviles.wordpress.com/)). I also work closely with Dr. [Jiaolong Yang](http://jlyang.org/) in Microsoft Research Asia (MSRA).  -->
 
 **My research interest lies** at the intersection of machine learning, deep learning, optimization and statistical modeling/inference with applications for computational photography/imaging/optics and computer vision. 
