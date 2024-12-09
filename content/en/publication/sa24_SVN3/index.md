@@ -38,7 +38,7 @@ featured: false
 links:
 - name: Project Page
   url: https://light.princeton.edu/publication/svn3/
-url_pdf: https://light.princeton.edu/wp-content/uploads/2024/11/spatially-varying-onn.pdf
+url_pdf: https://light.princeton.edu/wp-content/uploads/2024/12/spatially-varying-onn.pdf
 url_code: 'https://github.com/Vandermode/SVN3'
 
 
