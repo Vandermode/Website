@@ -18,10 +18,11 @@ organizations:
   url: "https://vccimaging.org/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computational photography/imaging/optics and large-scale optimization
+bio: My research interests include computational photography/imaging/optics/fabrication and large-scale optimization
 
 interests:
 - Computational Optics
+- Computational Fabrication
 - Computational Imaging
 - Computational Photography
 
@@ -74,7 +75,7 @@ I am a PhD student at King Abdullah University Of Science And Technology (KAUST)
 Besides, I ever interned at University of Cambridge and Microsoft Research Asia in 2019 and 2018, respectively.
 <!-- I was a visiting student at the Cambridge Image Analysis Group (CIA), University of Cambridge during summer 2019 (Host: Dr. [Angelica I. Aviles-Rivero](https://angelicaiaviles.wordpress.com/)). I also work closely with Dr. [Jiaolong Yang](http://jlyang.org/) in Microsoft Research Asia (MSRA).  -->
 
-**My research interest lies** at the intersection of machine learning, deep learning, optimization and statistical modeling/inference with applications for computational photography/imaging/optics and computer vision. 
+**My research interest lies** at the intersection of machine learning, deep learning, optimization and statistical modeling/inference with applications for computational photography/imaging/optics/fabrication and computer vision. 
 <!-- **My current research** focuses on alleviating the difficulty of capturing a large amount of paired real data required by the learning-based neural network pipeline for low-level vision tasks.  -->
 
 I hold a strong believe that computational imaging/optics will ultimately reshape everyone's life, and I do research for fun. 
