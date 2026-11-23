@@ -1,23 +1,13 @@
 +++
-# A Recent Blog Posts section created with the Pages widget.
-# This section displays recent blog posts from `content/post/`.
-
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 25  # Order that this section will appear.
-
-title = "Recent News"
-subtitle = ""
-
-[design]
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view = 1
+widget = "blank"
+headless = true
+active = true
+weight = 25
+title = "News"
 +++
+
+**<time datetime="2026-12-01">Dec 1, 2026</time>** — Our work [“Making Learned Diffractive Optics Manufacturable”](https://www.optica-opn.org/home/articles/volume_37/december_2026/extras/making_learned_diffractive_optics_manufacturable/) was featured in “Optics in 2026” at *Optics & Photonics News*.
+
 <!-- - [7/2020] We are happy and honoured to receive an <span style="color:red">Outstanding Paper Award</span> @[ICML2020](https://icml.cc/Conferences/2020/Awards)
 - [6/2020] One paper is accepted by [ICML 2020](https://icml.cc/).
 - [3/2020] Our work on *extreme low-light denoising* has been selected as an <span style="color:red">Oral presentation</span> in CVPR 2020!
