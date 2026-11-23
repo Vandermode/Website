@@ -42,6 +42,8 @@ links:
   url: https://vccimaging.org/Publications/Wei2025LAFA/
 - name: Media Coverage
   url: https://www.optica-opn.org/home/articles/volume_37/december_2026/extras/making_learned_diffractive_optics_manufacturable/
+  button_class: btn-media-coverage
+  icon: newspaper
 url_pdf: https://vccimaging.org/Publications/Wei2025LAFA/Wei2025LAFA.pdf
 url_code: 'https://github.com/Vandermode/LAFA'
 

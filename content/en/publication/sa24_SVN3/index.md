@@ -38,6 +38,10 @@ featured: false
 links:
 - name: Project Page
   url: https://light.princeton.edu/publication/svn3/
+- name: Media Coverage
+  url: https://phys.org/news/2025-02-compact-camera.html
+  button_class: btn-media-coverage
+  icon: newspaper
 url_pdf: https://light.princeton.edu/wp-content/uploads/2024/12/spatially-varying-onn.pdf
 url_code: 'https://github.com/Vandermode/SVN3'
 

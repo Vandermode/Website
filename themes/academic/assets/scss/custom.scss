@@ -1,1 +1,37 @@
 // Override this file to add your own SCSS styling.
+
+.btn.btn-media-coverage {
+  color: #70420c;
+  background-color: #fff3dd;
+  border-color: #bd8747;
+  font-weight: 600;
+
+  &:hover,
+  &:focus {
+    color: #603708;
+    background-color: #ffe6bc;
+    border-color: #9a5d1b;
+  }
+
+  &:focus-visible {
+    outline: 2px solid #9a5d1b;
+    outline-offset: 2px;
+  }
+}
+
+.dark .btn.btn-media-coverage {
+  color: #ffdda0;
+  background-color: #3b2b19;
+  border-color: #ae7d41;
+
+  &:hover,
+  &:focus {
+    color: #ffe9c5;
+    background-color: #553a1e;
+    border-color: #efbc76;
+  }
+
+  &:focus-visible {
+    outline-color: #efbc76;
+  }
+}
